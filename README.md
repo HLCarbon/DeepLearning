@@ -1,2 +1,2 @@
 # DeepLearning
-Journey to learn DeepLearning
+Journey to learn DeepLearning.
